@@ -1,0 +1,29 @@
+Hello team,
+
+Please contact the following people for project updates:
+
+amit.sharma@gmail.com
+ravi_kumar123@yahoo.com
+support@company.co.in
+info@startup.io
+
+You can also reach out to:
+admin@mysite.org
+test.user@domain.com
+
+Invalid emails (should not be extracted):
+amit@@gmail..com
+user#mail.com
+hello@.com
+@missing.com
+
+Duplicate emails:
+amit.sharma@gmail.com
+support@company.co.in
+
+More valid emails:
+hr.department@company.co.in
+sales-team@business.org
+contact_us@service.net
+
+Thank you!
